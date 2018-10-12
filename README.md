@@ -1,3 +1,3 @@
 # kaggle_training
-kaggleのipynb置き場
+kaggleのipynb置き場   
 Google Colaboratoryで実行可能
