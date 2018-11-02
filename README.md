@@ -1,6 +1,7 @@
 # kaggle_training
 kaggleのipynb置き場   
-Google Colaboratoryで実行可能   
+Google Colaboratoryで実行可能     
+
 下記のリンクからipynbの中身を確認できます。   
 [Google_Analytics_Customer_Revenue_Prediction.ipynb](http://nbviewer.jupyter.org/github/taiki323/kaggle_training/blob/master/Google_Analytics_Customer_Revenue_Prediction.ipynb)   
 [Porto_Seguro’s_Safe_Driver_Prediction.ipynb(実施中)](http://nbviewer.jupyter.org/github/taiki323/kaggle_training/blob/master/Porto_Seguro%E2%80%99s_Safe_Driver_Prediction.ipynb)   
